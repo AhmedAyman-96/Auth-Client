@@ -54,20 +54,6 @@ This is the documentation for the **React frontend** of the full-stack applicati
 
 The frontend does not require any environment variables for this project.
 
-## Project Structure
-
-ِAuth-Client/
-├── public/ # Static assets
-├── src/ # Source code
-│ ├── components/ # Reusable components
-│ ├── context/ # React Context for state management
-│ ├── pages/ # Page components
-│ ├── App.tsx # Main application component
-│ ├── index.tsx # Entry point
-│ └── ...
-├── package.json # Project dependencies
-└── ...
-
 ## Key Features
 
 - **User Authentication**: Sign up, log in, and log out functionality.
