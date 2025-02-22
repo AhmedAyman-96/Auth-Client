@@ -56,7 +56,7 @@ The frontend does not require any environment variables for this project.
 
 ## Project Structure
 
-client/
+ِAuth-Client/
 ├── public/ # Static assets
 ├── src/ # Source code
 │ ├── components/ # Reusable components
@@ -82,4 +82,5 @@ To run the frontend tests, use the following command:
 ```
 yarn test
 ```
+
 # Auth-Client
